@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempData_KeepvsPeek", "TempData_KeepvsPeek\TempData_KeepvsPeek.csproj", "{67DE9247-11ED-4722-9766-B7DD9C06E144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DE9247-11ED-4722-9766-B7DD9C06E144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DE9247-11ED-4722-9766-B7DD9C06E144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DE9247-11ED-4722-9766-B7DD9C06E144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DE9247-11ED-4722-9766-B7DD9C06E144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91846E09-D23C-483F-8806-2211D3FAC1F6}
+	EndGlobalSection
+EndGlobal

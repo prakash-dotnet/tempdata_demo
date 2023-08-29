@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TempData_KeepvsPeek.props" />
+</Project>
